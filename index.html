@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sweta Sengupta's Site
+title: My Site
 subtitle: An experienced Clinical Psychlogist, now a Data Science enthusiast!
 use-site-title: true
 ---
@@ -9,7 +9,12 @@ use-site-title: true
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
-	  <h3 class="post-title">{{ post.title }}</h3>
+    <table>
+      <tr>
+        <td><img src="/img/WIN_20200203_20_08_48_Pro.jpg"/></td>
+	      <td><h3 class="post-title">{{ post.title }}</h3></td>
+      </tr>
+    </table>
 
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
