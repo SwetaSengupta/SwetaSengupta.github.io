@@ -9,12 +9,7 @@ use-site-title: true
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
-    <table>
-      <tr>
-        <td><img src="/img/WIN_20200203_20_08_48_Pro.jpg"/></td>
-	      <td><h3 class="post-title">{{ post.title }}</h3></td>
-      </tr>
-    </table>
+	  <h3 class="post-title">{{ post.title }}</h3>
 
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
