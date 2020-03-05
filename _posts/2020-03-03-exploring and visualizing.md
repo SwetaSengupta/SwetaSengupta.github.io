@@ -1,11 +1,11 @@
 ---
 layout: post
+url: https://medium.com/@ssengupta801/exploring-and-visualizing-23152107c5aa
 title: Exploring and Visualizing
 subtitle: Patterns in City of Chicago Taxi Trip Dataset
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
-url: https://medium.com/@ssengupta801/exploring-and-visualizing-23152107c5aa
 comments: true
 ---
 
