@@ -8,7 +8,7 @@ subtitle: Patterns in City of Chicago Taxi Trip Dataset
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+The taxi service is an important transportation mode in urban areas. In this project, I will be analyzing City of Chicago taxi trip data. This dataset does not include the taxi trips data from ride-sharing companies such as Lyft, Uber, etc.
 
 **Here is some bold text**
 
