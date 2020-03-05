@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Exploring and Visualizing
+subtitle: Patterns in City of Chicago Taxi Trip Dataset
+#gh-repo: daattali/beautiful-jekyll
+#gh-badge: [star, fork, follow]
+#tags: [test]
 comments: true
 ---
 
