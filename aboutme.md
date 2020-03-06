@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: An experienced marketing executive, now a data science enthusiast!!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Work: 
+I have over 5 years experience as a Marketing Executive and has worked as
+a Senior Travel Consultant in Sam’s Travel, London, United Kingdom. Prior to that, I
+have worked as a manager in various respected organizations in India, in event
+management and in the national press.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# Education
+<u>
+<li>Master’s in Administrative Dynamics from Western Kentucky University, Bowling
+Green, KY, USA, 2010.</li>
+<li> M.A. in Psychology from Delhi University, New Delhi, India, 2002</li>
+</u>
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Hobbies
+Reading, cooking and travelling.
