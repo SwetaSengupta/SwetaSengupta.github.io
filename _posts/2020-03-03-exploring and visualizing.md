@@ -57,7 +57,7 @@ For this analysis I created two data sets, one of downtown Chicago and the other
 
 ## Hypothesis: If the distance traveled is more, then the fare should be higher
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~SwetaSengupta/13.embed" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~SwetaSengupta/13.embed" height="625" width="100%"></iframe>
 
 The plot clearly shows that there are multiple linear correlations between trip distance and cost. But for the majority of trips,<i> their cost depends on the distances<>. Most of the trips are small trips. In this case small trips are those which has a trip time of less than 15 minutes, trip distance of less than 2 miles and cost of less than 10 dollars.
 
