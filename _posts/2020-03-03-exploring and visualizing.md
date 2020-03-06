@@ -31,7 +31,7 @@ The taxi service is an important transportation mode in urban areas. In this pro
 
 The above plot shows most trips start out from the center of the city, around the airport area, and the University of Chicago. To understand this pattern better I have created a pie chart with ride counts from 20 most popular taxi pick up areas in Chicago.
 
-(plot here)
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~SwetaSengupta/11.embed" height="525" width="100%"></iframe>
 
 As you can see, more than fifty percent of ridership is concentrated in the downtown area. Therefore, it can be said that the taxi trip analysis shows that like most other cities in the world, downtown Chicago is also centralized. There are always many more taxi pickups and drop offs in those community areas in the city center.
 
