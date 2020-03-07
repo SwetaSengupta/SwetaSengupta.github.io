@@ -7,7 +7,7 @@ subtitle: Patterns in City of Chicago Taxi Trip Dataset
 #gh-badge: [star, fork, follow]
 #tags: [test]
 comments: true
-
+---
 
 
 The taxi service is an important transportation mode in urban areas. In this project, I will be analyzing City of Chicago taxi trip data. This dataset does not include the taxi trips data from ride-sharing companies such as Lyft, Uber, etc.
