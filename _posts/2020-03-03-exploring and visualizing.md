@@ -7,7 +7,8 @@ subtitle: Patterns in City of Chicago Taxi Trip Dataset
 #gh-badge: [star, fork, follow]
 #tags: [test]
 comments: true
-![taxi pic](img/8254827.jpg)
+![taxi](img/8254827.jpg)
+
 The taxi service is an important transportation mode in urban areas. In this project, I will be analyzing City of Chicago taxi trip data. This dataset does not include the taxi trips data from ride-sharing companies such as Lyft, Uber, etc.
  
  I have taken a sample of data from a huge dataset to see what all information I can get from it. Like,<i> how centralized is Chicago? Do Chicago residents use taxis more during rush hours? Is the taxi fare usually higher during rush hour? Is taxi fare higher in the downtown area? What is the relationship between distance traveled, time taken and fare?<>
