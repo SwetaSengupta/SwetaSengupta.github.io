@@ -9,8 +9,6 @@ subtitle: Patterns in City of Chicago Taxi Trip Dataset
 comments: true
 ---
 
-blogimage: "img/8254827.jpg"
-
 The taxi service is an important transportation mode in urban areas. In this project, I will be analyzing City of Chicago taxi trip data. This dataset does not include the taxi trips data from ride-sharing companies such as Lyft, Uber, etc.
  
  I have taken a sample of data from a huge dataset to see what all information I can get from it. Like,<i> how centralized is Chicago? Do Chicago residents use taxis more during rush hours? Is the taxi fare usually higher during rush hour? Is taxi fare higher in the downtown area? What is the relationship between distance traveled, time taken and fare?<>
@@ -26,7 +24,6 @@ The taxi service is an important transportation mode in urban areas. In this pro
 </ul>
 
 ## Hypothesis: Chicago is centralized
-
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~SwetaSengupta/16.embed" height="525" width="100%"></iframe>
 
@@ -86,11 +83,3 @@ Analyzing the correlation matrix we can say that the mileage and duration of a t
 <li>If the distance to be traveled is more, then the fare should be higher.</li>
 <li>There is a strong relationship between distance traveled, time taken and fare.</li>
 </ul>
-
-
-
-
-
-
-
-
