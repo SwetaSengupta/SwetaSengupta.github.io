@@ -70,7 +70,7 @@ To understand the relationship between distance traveled, time taken and cost le
 
 ![fareplot](../img/seaborn.png)
 
-Basically, the distribution of trip duration, distance and cost are all little skewed to the right, meaning that majority trips are small trips. But as you can see there is a drop in the distribution of both trip duration and distance when the corresponding values are very small, and there is a small bump in distance and cost when the corresponding values are relatively large.Trip duration does not seem to have a linear correlation with distance. We can see that short trips take a long time to complete, whereas some long distance trips take less time to finish.
+As you can see there is a drop in the distribution of both trip duration and distance when the corresponding values are very small, and there is a small bump in distance and cost when the corresponding values are relatively large.Trip duration does not seem to have a linear correlation with distance. We can see that short trips take a long time to complete, whereas some long distance trips take less time to finish.
 
 To explore this further we will analyse the correlation matrix of these features.
 
