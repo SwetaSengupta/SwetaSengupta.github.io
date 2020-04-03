@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: An experienced marketing executive, now a data science enthusiast!!
+subtitle: An experienced clinical psychologist and marketing executive, now a data science enthusiast!!
 ---
 
 ## Work: 
@@ -9,6 +9,8 @@ I have over 5 years experience as a Marketing Executive and have worked as
 a Senior Travel Consultant in Sam’s Travel, London, United Kingdom. Prior to that, I
 have worked as a manager in various respected organizations in India, in event
 management and in the national press.
+
+Worked as a clinical psychologist for National Health Trust(NHS), UK
 
 ## Education
 
