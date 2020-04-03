@@ -20,7 +20,7 @@ description: I am an awesome data scientist!
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Beautiful Jekyll: "https://medium.com/@ssengupta801/exploring-and-visualizing-23152107c5aa"
+    - Medium: "https://medium.com/@ssengupta801/exploring-and-visualizing-23152107c5aa"
     - Learn markdown: "http://www.markdowntutorial.com/"
   #Author's home: "http://deanattali.com"
 
